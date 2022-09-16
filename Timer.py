@@ -14,6 +14,7 @@ root.configure(bg = "gray1")
 # root.iconbitmap('count.ico')
 
 
+
 def set_timer():
    
     global H , S , M
