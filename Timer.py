@@ -8,6 +8,7 @@ root , font , bg , fg  = Tk() , ("Century Gothic" , 15) , "#333" , '#fff'
 
 #WINDOW CONFIGURES
 
+
 root.geometry("400x300")
 root.title('countdown')
 root.configure(bg = "gray1")
